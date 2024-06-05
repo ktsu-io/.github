@@ -1,4 +1,4 @@
-![image](https://github.com/ktsu-io/.github/assets/19528727/db1f8f9b-fbfb-4db0-bebe-17cc856515f1)# ktsu.io
+# ktsu.io
 
 A collection of open source libraries and projects lead by Matthew Edmondson since 2023.
 
